@@ -1,7 +1,3 @@
----
-title: Support
----
-
 # Buy Decide — Support
 
 Need help with Buy Decide? You're in the right place.
