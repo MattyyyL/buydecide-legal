@@ -1,7 +1,3 @@
----
-title: Privacy Policy
----
-
 # Privacy Policy for Buy Decide
 
 **Last updated: 24 June 2026**
