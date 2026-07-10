@@ -1,4 +1,4 @@
-# BuyDecide
+# Buy Decide
 
 - [Privacy Policy](privacy-policy)
 - [Support](support)
