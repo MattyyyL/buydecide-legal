@@ -17,7 +17,7 @@ also compare several products, work out a product's cost per use, and keep a Pur
 **Is my data private?**
 Yes. Your decisions, comparisons, and journal entries stay on your device — there's no
 account and no login. Information only leaves your device if you choose to use an AI
-feature, or to support ads and purchases. See our Privacy Policy: **[privacy policy URL]**.
+feature, or to support ads and purchases. See our Privacy Policy: **https://mattyyyl.github.io/buydecide-legal/privacy-policy**.
 
 **What does the Pro upgrade include?**
 Pro removes all ads and unlocks unlimited AI research and comparisons plus full history
@@ -44,5 +44,5 @@ locally.
 
 ## Legal
 
-- Privacy Policy: **[privacy policy URL]**
-- Terms of Use: **[terms of use URL]**
+- Privacy Policy: **https://mattyyyl.github.io/buydecide-legal/privacy-policy**
+- Terms of Use: **https://mattyyyl.github.io/buydecide-legal/terms-of-use**
