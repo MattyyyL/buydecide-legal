@@ -1,7 +1,3 @@
----
-title: Terms of Use
----
-
 # Terms of Use for Buy Decide
 
 **Last updated: 24 June 2026**
